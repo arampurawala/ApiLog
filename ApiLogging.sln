@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLogging", "ApiLogging\ApiLogging.csproj", "{3566C814-A14E-4F47-85C7-00AF5EAA2FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{F456C881-8B09-4B66-9ACB-10D815480D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3566C814-A14E-4F47-85C7-00AF5EAA2FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3566C814-A14E-4F47-85C7-00AF5EAA2FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3566C814-A14E-4F47-85C7-00AF5EAA2FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3566C814-A14E-4F47-85C7-00AF5EAA2FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F456C881-8B09-4B66-9ACB-10D815480D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F456C881-8B09-4B66-9ACB-10D815480D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F456C881-8B09-4B66-9ACB-10D815480D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F456C881-8B09-4B66-9ACB-10D815480D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF0BEE3-DDC8-4E8B-AEE2-7E583AD47123}
+	EndGlobalSection
+EndGlobal
